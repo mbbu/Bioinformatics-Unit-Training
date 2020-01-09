@@ -2,6 +2,7 @@
 ## MARCH
 ### Data Management for Open and Reproducible Genomics Research Workshop (2 days)
 This is a foundational training, which aims to introduce participants to considerations in planning a genomics project to ensure reproducibility and openness as vital principles for modern research.
+
 **Audience:** Life science researchers involved or interested in genomics research, people involved with genomic data management, no prerequisite 
 >
     • Introduction to bioinformatics (Data; Central dogma of Mol Bio, Online resources, NGS tech)
@@ -11,6 +12,7 @@ This is a foundational training, which aims to introduce participants to conside
 ## JULY - AUGUST
 ### EANBiT Residential Training Course (6 weeks)
 This training aims at strengthening bioinformatics technical capacity and skills among the participants; preparing them to work as bioinformaticians and to become project ready so that they have the necessary skills to offer bioinformatics support in projects they are attached to.
+
 **Audience:** Postgraduates ++ with familiarity to computing/programming and/or life science background
 >
     • Version control and collaborative development (Git & Github & Slack etc.)
@@ -25,6 +27,7 @@ This training aims at strengthening bioinformatics technical capacity and skills
 ## AUGUST - OCTOBER
 ### H3ABioNet: Intermediate 16S rRNA Microbiome Training Course
 The course aims to provide training to enable participants to gain the knowledge and skills to perform 16S rRNA microbiome data analyses using a variety of bioinformatics methods and tools.
+
 **Audience:** Life science researchers involved or interested in genomics data analysis, no prerequisite 
 >
     • Introduction to the Linux command line / intro to R
@@ -36,6 +39,7 @@ The course aims to provide training to enable participants to gain the knowledge
 ## DECEMBER
 ### Data Carpentry Genomics Workshop (4 days)
 This workshop aims to teach data management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of command-line utilities, use of command-line tools to analyse sequence quality and perform variant calling, and connecting to and using cloud computing.
+
 **Audience:** Life science researchers involved or interested in genomics data analysis, no prerequisite 
 >
     • Project organisation and management

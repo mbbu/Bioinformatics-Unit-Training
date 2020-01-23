@@ -20,7 +20,10 @@ We have the H3Africa meeting, where *icipe* will host the fellows training. We a
 
 ## APRIL - One Week
 ### R for reproducible research and statistical analysis
-This can be a one-week training that targets data analysis using R studio, where we will also emphasise on project management. 
+This can be a one-week training that targets data analysis using R studio, where we will also emphasise on project management.We'll host this in collaboration with statistics.  
+
+## MAY?
+### One-Week Intermediate Bioinformatics Training?
 
 ## JUNE - JULY
 ### EANBiT Residential Training Course (6 weeks)

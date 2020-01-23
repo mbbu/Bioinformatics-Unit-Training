@@ -11,7 +11,12 @@ This is a foundational training, which aims to introduce participants to conside
     • Introduction to data backup and version control (Git and GitHub, Pipeline tools)
 
 ## MARCH
-- We have the H3Africa meeting, where icipe will host the fellows training.
+### Survery and Reasearch Data Management with REDCap (End of March)
+We have the H3Africa meeting, where *icipe* will host the fellows training. We are planning for a REDCap training at the end of March. This will cover:
+    - How to use REDCap for surveys
+    - Setting up rubust surveys (We need to find a trainer on this)
+    - Research data management
+
 
 ## APRIL - One Week
 ### R for reproducible research and statistical analysis

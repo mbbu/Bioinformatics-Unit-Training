@@ -11,10 +11,10 @@ This is a foundational training, which aims to introduce participants to conside
     • Introduction to data backup and version control (Git and GitHub, Pipeline tools)
 
 ## MARCH
-### Survery and Reasearch Data Management with REDCap (End of March)
-We have the H3Africa meeting, where *icipe* will host the fellows training. We are planning for a REDCap training at the end of March. This will cover:
+### Survey and Research Data Management with REDCap (End of March)
+We have the H3Africa meeting, where *icipe* will host the fellows training. We are planning for REDCap training at the end of March. This will cover:
     - How to use REDCap for surveys
-    - Setting up rubust surveys (We need to find a trainer on this)
+    - Setting up robust surveys (We need to find a trainer on this)
     - Research data management
 
 
@@ -52,8 +52,11 @@ The course aims to provide training to enable participants to gain the knowledge
     • Downstream analysis in R - using the packages phyloseq, NMF, vegan,
 
 ## NOVEMBER
-### A training on FAIR Data, focusing on metadata management
+### FAIR Data and metadata management
 This two-day training will target anyone that handles data in any form in the institution. 
+- How to FAIRrify your data
+- Metadata management principles
+- Tools and standard for metadata management
 
 ## DECEMBER
 ### Data Carpentry Genomics Workshop (4 days)

@@ -1,5 +1,5 @@
 # Bioinformatics Unit – icipe Annual Training Schedule 2020
-## FEB
+## FEB: Last Week
 ### Data Management for Open and Reproducible Genomics Research Workshop (2 days)
 This is a foundational training, which aims to introduce participants to considerations in planning a genomics project to ensure reproducibility and openness as vital principles for modern research.
 
@@ -13,6 +13,7 @@ This is a foundational training, which aims to introduce participants to conside
 ## MARCH
 ### Survey and Research Data Management with REDCap (End of March)
 We have the H3Africa meeting, where *icipe* will host the fellows training. We are planning for REDCap training at the end of March. This will cover:
+>
     - How to use REDCap for surveys
     - Setting up robust surveys (We need to find a trainer on this)
     - Research data management
@@ -24,6 +25,14 @@ This can be a one-week training that targets data analysis using R studio, where
 
 ## MAY?
 ### One-Week Intermediate Bioinformatics Training?
+This is designed to cater for ICIPE partners who are not part of the 5-week Residential Training.
+
+**Audience:** Postgraduates students from partner instituitions. 
+>
+    - Version control and collaborative development (Git & Github & Slack etc.)
+    - Metagenomics (16S and Whole-genome shotgun sequencing) 
+    - Specialised databases (VectorBase, EupathDB) and APIs
+    - Data Management for Open and Reproducible Genomics Research
 
 ## JUNE - JULY
 ### EANBiT Residential Training Course (6 weeks)
@@ -57,6 +66,9 @@ The course aims to provide training to enable participants to gain the knowledge
 ## NOVEMBER
 ### FAIR Data and metadata management
 This two-day training will target anyone that handles data in any form in the institution. 
+
+**Audience:**  All students, researchers and scientists who work with research data in any form. 
+>
 - How to FAIRrify your data
 - Metadata management principles
 - Tools and standard for metadata management

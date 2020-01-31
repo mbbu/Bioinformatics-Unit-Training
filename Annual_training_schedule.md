@@ -1,11 +1,11 @@
 # Bioinformatics Unit – icipe Annual Training Schedule 2020
 ## FEB: Last Week
-### Data Management for Open and Reproducible Genomics Research Workshop (2 days)
+### [Data Management for Open and Reproducible Genomics Research Workshop](https://github.com/mbbu/Reproducible_Genomics_Project) (2 days)
 This is a foundational training, which aims to introduce participants to considerations in planning a genomics project to ensure reproducibility and openness as vital principles for modern research.
 
 **Audience:** Life science researchers involved or interested in genomics research, people involved with genomic data management, no prerequisite 
 >
-    • Introduction to bioinformatics (Data; Central dogma of Mol Bio, Online resources, NGS tech)
+    • Introduction to bioinformatics (Data, Central dogma of Mol Bio, Online resources, NGS tech)
     • Organising a genomic project workspace (Data Management Plan)
     • Open and reproducible Bioinformatics research (Data tidiness, Frictionless Data tools)
     • Introduction to data backup and version control (Git and GitHub, Pipeline tools)
@@ -14,6 +14,7 @@ This is a foundational training, which aims to introduce participants to conside
 ### Survey and Research Data Management with REDCap (End of March)
 We have the H3Africa meeting, where *icipe* will host the fellows training. We are planning for REDCap training at the end of March. This will cover:
 >
+    - Why REDCap?
     - How to use REDCap for surveys
     - Setting up robust surveys (We need to find a trainer on this)
     - Research data management
@@ -21,7 +22,27 @@ We have the H3Africa meeting, where *icipe* will host the fellows training. We a
 
 ## APRIL - One Week
 ### R for reproducible research and statistical analysis
-This can be a one-week training that targets data analysis using R studio, where we will also emphasise on project management.We'll host this in collaboration with statistics.  
+This can be a one-week training that targets data analysis using R studio, where we will also emphasise on project management.We'll host this in collaboration with statistics. We could also make use of Carpentries Resources, design. 
+
+## Since this is running at the same time we have the EANBiT RT, we mayhave to skip, or find a partner to host
+### Introduction to Bioinformatics Training (IBT) 
+H3ABioNet‘s Introduction to Bioinformatics course (IBT) provides an introduction to the field of bioinformatics, with a focus on important bioinformatics tools and resources.  It is delivered over a period of 3 months, through a combination of distance, face to face and onlne learning. During face to face contact sessions, classrooms meet virtually to discuss the session’s content with each other facilitated by a trainer and teaching assistants.  The course combines theoretical and practical sessions to allow participants to gain practical experience in using various tools and resources.
+**Date:** 04 May – 31 July 2020; Every Tuesday and Thursday from 10:30 CAT to 14:30 CAT.
+ **Content**
+ >
+    - Bioinformatics resources and databases
+        Introduction to bioinformatics, biological databases and resources (NCBI and EBI), data formats, ontologies
+    - Linux
+        Introduction to Linux, general overview of Linux environment, overview of command line interface, navigating Linux  directory structure, manipulating files and directories, basic Linux commands
+    - Sequence alignment theory and applications
+        Introduction to searching and sequence alignment, BLAST, pairwise sequence alignment
+    - Multiple sequence alignment (MSA)
+        MSA theory, generating and interpreting MSAs using various tools, visualising and assessing MSA quality
+    - Genomics
+        Overview of sequencing and annotation, Ensembl genome browser, Genetic variation, HapMap, 1000 genomes
+    - Molecular evolution and phylogenetics
+
+**Prerequisites / Audience:** A basic background/understanding of of biochemistry and/or genetics.
 
 ## MAY?
 ### One-Week Intermediate Bioinformatics Training?
@@ -69,9 +90,9 @@ This two-day training will target anyone that handles data in any form in the in
 
 **Audience:**  All students, researchers and scientists who work with research data in any form. 
 >
-- How to FAIRrify your data
-- Metadata management principles
-- Tools and standard for metadata management
+    - How to FAIRrify your data
+    - Metadata management principles
+    - Tools and standard for metadata management
 
 ## DECEMBER
 ### Data Carpentry Genomics Workshop (4 days)

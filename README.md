@@ -1,4 +1,4 @@
-# # Bioinformatics Unit – icipe Annual Training Schedule 2020
+# Bioinformatics Unit – icipe Annual Training Schedule 2020
 
 The unit aims to develop rolling training schedules in bioinformatics to target internal and external participants capacity building. We will put together materials to facilitate the trainings.
 

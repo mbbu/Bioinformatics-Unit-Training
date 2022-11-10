@@ -109,6 +109,9 @@ The assignment of mini projects follows this up. The interns will also participa
 ```
 
 # Dec 
-NA
+## Genome Annotation Hackathon
+- Automated genome assembly and annotation
+- Manual anotation with Artemis, and Apollo
+- 
 
 

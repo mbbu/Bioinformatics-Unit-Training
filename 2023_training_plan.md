@@ -24,7 +24,7 @@ A one-week training for life science doctoral candidates, MSc students, and rese
 
 **Content:**
 - Introduction to RNA-seq (RNA extraction, mRNA enrichment, Sequencing, Bioinformatics Analysis (Small RNAs, mRNAs))
-- 
+- Identification of differentially expressed (DE) genes/smRNAs
 
 ## APRIL 
 ### Microbiome Analysing (One Week)

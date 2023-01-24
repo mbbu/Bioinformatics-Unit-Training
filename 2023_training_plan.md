@@ -43,9 +43,6 @@ This can be a one-week training that targets data analysis using R studio, where
 - What are the advantages and disadvantages of metatranscriptomic analysis?
 - What challenges have you faced while handling metagenomic (amplicon/shotgun) or metatranscriptomic data?
 - What could you do to improve the richness of metagenomic and metatranscriptomic data?
-- Develop a diagram schema for amplicon, shotgun, and metatranscriptomic analysis.
-- What do you learn from the tools of analysing amplicon, shotgun, and metatranscriptomic data?
-- If you were to conduct a microbiome analysis, what would you do differently to generate as much knowledge as possible?
 - What are the applications of microbiome studies?
 
 ## MAY

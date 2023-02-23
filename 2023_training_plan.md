@@ -1,34 +1,33 @@
-## FEB
-### Data Management for Open and Reproducible Omics Research Workshop (3 days)
-Foundational training aims to introduce participants to planning an omics project to ensure reproducibility and openness as vital principles for modern research. Training on the responsible use of the *icipe* server will also be emphasized.
+## March
+### Introduction to Icipe HPC resources at icipe (HPC, RStudio, Galaxy, Jupyter) (16th March)
+One day **1\2 a day** workshop giving an introduction and overview of the icipe's high-performance computing systems, available tools, and responsible use of the HPC.
 
 **Audience:** 
-Life science researchers involved or interested in omics research, people involved with genomic data management.
+Those using or intending to use the HPC
 
 **Prerequisite:** None
 
 **Content:**
-- Project Organization and Management for Omics projects
-- Introduction to Bioinformatics
-- Introduction to Linux command line
 - Responsible use of _icipe_ Bioinformatics resources and services  responsibly (HPC usage)
-- Open science (FAIR Data and metadata management) and Reproducible Bioinformatics Research 
-- Introduction to data backup and version control (e.g Git and GitHub)
+- Transfer files onto the icipe cluster.
+- Data Storage
 
-## MARCH
-### RNA-Seq (Transcriptomic) Analysis (One Week)
+## April-May
+### Genome Assembly and Annotation Hackathon (3rd April - 31st May)
 **Audience:** 
-A one-week training for life science doctoral candidates, MSc students, and research fellows handling transcriptomic data. We intend to demonstrate pipelines for handling Omic datasets (sourced from various sequencing platforms such as ONT, Illumina, and PacBio). Also RNA-seq datasets of model and non-model organisms will be considered. The emphasis will also be on project management. Carpentries Resources and MBBU design pipelines will be used in training.
+Two month Hackathon for life science doctoral candidates, MSc students, Undergraduate students and research fellows interested in handling genome reads data. 
+We intend to generate a pipeline for assemblying (ONT/Illumina/PacBio) reads. The emphasis will also be on selection of tools needed for assembly and annotation. We look forward to also automate the workflow in Nextflow. (There is a possibility of writing a manuscript and review paper on genome assembly).
 
-**Prerequisite:** Basic Knowledge on Bash and R
+**Prerequisite:** Basic Knowledge on Bash, Python, and R
 
 **Content:**
-- Introduction to RNA-seq (RNA extraction, mRNA enrichment, Sequencing, Bioinformatics Analysis (Small RNAs, mRNAs))
-- Identification of differentially expressed (DE) genes/smRNAs
+- TBD
+- 
 
-## APRIL 
-### Microbiome Analysing (One Week)
-This can be a one-week training that targets data analysis using R studio, where we will also emphasise on project management. We'll host this in collaboration with statistics. We could also make use of Carpentries Resources, design. 
+## May-July 
+### Introduction to Bioinformatics (Three Months)
+The course aims to provide an introduction to the field of bioinformatics, with a focus on important bioinformatics tools, and resources. The course aims to use a combination of theoretical and practical sessions in order for participants to gain practical experience in using various tools and resources.
+The course content and outline is prepared by [H3ABioNet](https://www.h3abionet.org/categories/introduction-to-bioinformatics-training-2022) and will be facilitated by instructors from _icipe_ [MBBU unit](https://mbbu.github.io/). The application for applicants are expected to begin in April and Workshop to begin in May. Exact dates will be communicated.
 
 **Audience:**
 
@@ -36,26 +35,32 @@ This can be a one-week training that targets data analysis using R studio, where
 
 
 **Content:**
-- What type of dataset do I have? Metagenomic (Amplicon, Shotgun) or Metatranscriptomic?
-- What pipelines are available for amplicon (16s, 18s, and ITS), shotgun, or metatranscriptomic analysis?
-- What are the advantages and disadvantages of amplicon sequences?
-- What are the advantages and disadvantages of shotgun sequences?
-- What are the advantages and disadvantages of metatranscriptomic analysis?
-- What challenges have you faced while handling metagenomic (amplicon/shotgun) or metatranscriptomic data?
-- What could you do to improve the richness of metagenomic and metatranscriptomic data?
-- What are the applications of microbiome studies?
+>
+  - Explain the use of bioinformatics
+  - Name the key bioinformatics techniques and tools
+  - Locate important biological databases and retrieve data
+  - Use selected tools effectively to run specific bioinformatics analyses
+  - Understand the strengths and limitations of the various techniques
 
-## MAY
-### Genome Assembly and Annotation Hackthon (One Week)
+## AUG
+### Data Management for Open and Reproducible Genomics Research (2 Days)
+The workshop aims to introduce participants to considerations in planning an -omics project to ensure reproducibility and openness as vital principles for modern research.
 
-**Audience:**
+**Audience:** 
+Life science researchers involved or interested in -omics research, people involved with -omic data management
 
 **Prerequisite:**
-
+no prerequisite 
 **Content:**
+>
+    - Introduction to bioinformatics (Data, Central dogma of Mol Bio, Online resources, NGS tech)
+    - Organising a genomic project workspace (Data Management Plan)
+    - Open and reproducible Bioinformatics research (Data tidiness, Frictionless Data tools)
+    - Introduction to data backup and version control (Git and GitHub, Pipeline tools)
+    - Introduction to the iRODS system for data management
 
 
-## JUNE
+## SEPT
 ### 
 
 **Audience:**
@@ -65,27 +70,7 @@ This can be a one-week training that targets data analysis using R studio, where
 **Content:**
 
 
-## JULY
-### 
-
-**Audience:**
-
-**Prerequisite:**
-
-**Content:**
-
-
-## AUGUST
-### 
-
-**Audience:**
-
-**Prerequisite:**
-
-**Content:**
-
-
-## OCTOBER
+## OCT
 ### 
 
 **Audience:**
@@ -96,7 +81,7 @@ This can be a one-week training that targets data analysis using R studio, where
 
 
 
-## NOVEMBER
+## NOV
 ###
 
 **Audience:**
@@ -106,7 +91,7 @@ This can be a one-week training that targets data analysis using R studio, where
 **Content:**
 
 
-## DECEMBER
+## DEC
 ### 
 
 **Audience:**

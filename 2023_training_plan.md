@@ -52,16 +52,15 @@ Life science researchers involved or interested in -omics research, people invol
 **Prerequisite:**
 no prerequisite 
 **Content:**
->
-    - Introduction to bioinformatics (Data, Central dogma of Mol Bio, Online resources, NGS tech)
-    - Organising a genomic project workspace (Data Management Plan)
-    - Open and reproducible Bioinformatics research (Data tidiness, Frictionless Data tools)
-    - Introduction to data backup and version control (Git and GitHub, Pipeline tools)
-    - Introduction to the iRODS system for data management
+- Introduction to bioinformatics (Data, Central dogma of Mol Bio, Online resources, NGS tech)
+- Organising a genomic project workspace (Data Management Plan)
+- Open and reproducible Bioinformatics research (Data tidiness, Frictionless Data tools)
+- Introduction to data backup and version control (Git and GitHub, Pipeline tools)
+- Introduction to the iRODS system for data management
 
 
 ## SEPT
-### 
+### Using Galaxy for Transcriptomics and Gene Expression Analysis.
 
 **Audience:**
 
@@ -71,7 +70,7 @@ no prerequisite
 
 
 ## OCT
-### 
+### The Carpentries Training Workshop (Self-Organised)
 
 **Audience:**
 
@@ -82,7 +81,7 @@ no prerequisite
 
 
 ## NOV
-###
+### Phylogenetics and Evolutionary Analysis 
 
 **Audience:**
 
@@ -92,7 +91,7 @@ no prerequisite
 
 
 ## DEC
-### 
+### Data Visualization and Communication in Bioinformatics
 
 **Audience:**
 

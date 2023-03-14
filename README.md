@@ -12,6 +12,8 @@ Those using or intending to use the HPC
 - Transfer files onto the icipe cluster.
 - Data Storage
 
+The **schedule** and the **training materials** are attached herein: [Schedule]()
+
 ## April-May
 ### Genome Assembly and Annotation Hackathon (3rd April - 31st May)
 **Audience:** 

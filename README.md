@@ -1,6 +1,6 @@
 ## March
-### Introduction to Icipe HPC resources at icipe (HPC, RStudio, Galaxy, Jupyter) (16th March)
-One day **1\2 a day** workshop giving an introduction and overview of the icipe's high-performance computing systems, available tools, and responsible use of the HPC.
+### Introduction to Icipe HPC resources at icipe (HPC, RStudio, Galaxy, Jupyter) (30th March)
+One day workshop giving an introduction and overview of the icipe's high-performance computing systems, available tools, and responsible use of the HPC.
 
 **Audience:** 
 Those using or intending to use the HPC

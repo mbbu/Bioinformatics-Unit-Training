@@ -1,3 +1,6 @@
+Introduction to Bioinformatics 2023 Course Schedule
+---
+
 | Date               | Event                                      | Presenter                                             |
 |-------------------|--------------------------------------------|-------------------------------------------------------|
 | Tuesday, 18 April | Staff training day session 1                | Verena Ras, University of Cape Town, South Africa      |

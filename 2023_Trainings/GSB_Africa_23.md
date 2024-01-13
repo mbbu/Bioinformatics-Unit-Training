@@ -1,3 +1,9 @@
+H3ABioNet and Wellcome Connecting Science
+---
+
+Next Generation Sequencing Bioinformatics Course Timetable
+
+
 | Date             | Topic                                              |
 |------------------|----------------------------------------------------|
 | Tuesday, 15 Aug  | Welcome to the course!                              |

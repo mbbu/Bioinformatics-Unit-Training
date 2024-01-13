@@ -1,6 +1,9 @@
 
 Genomics Workshop
 ---
+
+In this training we used Data Capentries materials that can be accessed via this [link](https://datacarpentry.org/genomics-workshop/)
+
 | Episodes                                       | Lessons                                     | Instructor  | Helper   |
 |-----------------------------------------------|---------------------------------------------|-------------|----------|
 | Project organization & management (Aug 14th)   | Setup                                       | Parcelli    | Parcelli |
